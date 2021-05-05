@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LiveStream/static/css/main.20a023cf.chunk.css",
+    "main.js": "/LiveStream/static/js/main.d21dd5e1.chunk.js",
+    "main.js.map": "/LiveStream/static/js/main.d21dd5e1.chunk.js.map",
+    "runtime-main.js": "/LiveStream/static/js/runtime-main.938aa717.js",
+    "runtime-main.js.map": "/LiveStream/static/js/runtime-main.938aa717.js.map",
+    "static/css/2.7679ac31.chunk.css": "/LiveStream/static/css/2.7679ac31.chunk.css",
+    "static/js/2.78f6ccb3.chunk.js": "/LiveStream/static/js/2.78f6ccb3.chunk.js",
+    "static/js/2.78f6ccb3.chunk.js.map": "/LiveStream/static/js/2.78f6ccb3.chunk.js.map",
+    "index.html": "/LiveStream/index.html",
+    "precache-manifest.b9bc94c501d86905041f58db309f4a55.js": "/LiveStream/precache-manifest.b9bc94c501d86905041f58db309f4a55.js",
+    "service-worker.js": "/LiveStream/service-worker.js",
+    "static/css/2.7679ac31.chunk.css.map": "/LiveStream/static/css/2.7679ac31.chunk.css.map",
+    "static/css/main.20a023cf.chunk.css.map": "/LiveStream/static/css/main.20a023cf.chunk.css.map",
+    "static/js/2.78f6ccb3.chunk.js.LICENSE.txt": "/LiveStream/static/js/2.78f6ccb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.938aa717.js",
+    "static/css/2.7679ac31.chunk.css",
+    "static/js/2.78f6ccb3.chunk.js",
+    "static/css/main.20a023cf.chunk.css",
+    "static/js/main.d21dd5e1.chunk.js"
+  ]
+}
